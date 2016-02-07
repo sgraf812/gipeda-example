@@ -1,0 +1,13 @@
+title: Gipeda itself
+diffLink: "https://git.nomeata.org/?p=gipeda.git;a=commitdiff;h={{rev}};hp={{base}}"
+revisionInfo: '<a href="https://github.com/nomeata/gipeda/commit/{{rev}}">View Diff</a>'
+limitRecent: 20
+start: 77813a976b5a7d73ffdef224e6175254e0cca5b3
+interestingTags: "*"
+
+benchmarks:
+  - match: "*"
+    smallerIsBetter: True
+    threshold: 1
+    type: integral
+    group: (ungrouped)
